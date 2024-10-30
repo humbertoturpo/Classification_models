@@ -6,6 +6,9 @@ Capstone Project 17.1: Problem Statement (Section B)
 
 This project analyzes data from a Portuguese banking institution’s marketing campaigns to predict client acceptance of campaign offers. Following the **CRISP-DM** methodology, we identified key predictors of campaign success and evaluated multiple machine learning models to determine the best approach for predicting client responses.
 
+You can view the complete notebook [here](https://github.com/humbertoturpo/Classification_models/blob/main/Comparing%20Classifiers.ipynb).
+
+
 ## CRISP-DM Process
 
 ### 1. Business Understanding
